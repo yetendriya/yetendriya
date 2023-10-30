@@ -8,8 +8,10 @@ I'm a curious, open-minded individual who relishes learning and embraces diverse
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning ML and deep Learning.
 - 👯 I’m looking to collaborate on various projects.
-- 📫 You can reach out to me via email at yetendriya79@gmail.com .
--💼 Connect with me on LinkedIn to explore professional opportunities: https://www.linkedin.com/in/yetendriya-lamani-kodidasu-ab83b8251/
+
+ 
+📫 You can reach out to me via email at yetendriya79@gmail.com .
+💼 Connect with me on LinkedIn to explore professional opportunities: https://www.linkedin.com/in/yetendriya-lamani-kodidasu-ab83b8251/
 🌐 Visit my personal website: https://yetendriyalamani.bio.link/ to know more about my career and interests.
 
 
