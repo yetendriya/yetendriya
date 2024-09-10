@@ -14,7 +14,7 @@ I'm a curious, open-minded individual who relishes learning and embraces diverse
 
 💼 Connect with me on LinkedIn to explore professional opportunities: https://www.linkedin.com/in/yetendriya-lamani-kodidasu-ab83b8251/
 
-🌐 Visit my personal website: https://yetendriyalamani.bio.link/ to know more about my career and interests.
+🌐 Visit my personal website: https://yetendriya.github.io/ to know more about my career and interests.
 
 
 Feel free to explore my GitHub repositories to see my coding projects and experiments. I'm always open to collaborations and new challenges, so don't hesitate to get in touch!
